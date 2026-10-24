@@ -1,0 +1,18 @@
+# typerr.io
+
+typerr.io is a fast-paced, high-intensity typing game where players rapidly type words to survive, build combos, and compete for the top spots on global and level-based leaderboards. It focuses on flow state, rapid input responsiveness, and engaging competitive mechanics.
+
+## Core Mechanics & Features
+
+*   **Fast-Paced Typing Gameplay:** Players must type the displayed words or sequences accurately to clear them before time runs out.
+*   **Time & Survival System:** Each successful keystroke or completed word grants a time bonus, while hesitating or making mistakes drains the timer.
+*   **Combo & Streak Mechanics:** Sustaining continuous accurate typing builds a combo multiplier, which is critical for achieving high scores.
+*   **Progressive Difficulty (Levels):** The game features multiple difficulty tiers (levels) that increase in complexity, speed requirements, and visual intensity.
+*   **Endless/Marathon Mode:** A dedicated survival mode mode where players type continuously against a decaying timer to see how long they can last.
+*   **Global & Regional Leaderboards:** Real-time leaderboards (powered by Supabase) allowing players to compete globally, per level, and in special marathon events. 
+*   **Replay System:** The game records keystrokes and timing, allowing players to watch replays of top scores to learn from the best.
+*   **Tech Stack:** Built with React 19, Vite, Tailwind CSS (v4), Motion (for fluid UI/UX animations), and Supabase for backend database/leaderboard management.
+
+## Critical Retrieval Links
+
+*   **Main App / Play Now:** https://typerr.io

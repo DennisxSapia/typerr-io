@@ -1,0 +1,2 @@
+Redirects to /llms.txt
+Please read /llms.txt for full AI context.
