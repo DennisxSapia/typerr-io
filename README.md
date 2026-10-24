@@ -4,8 +4,7 @@ An arcade typing game for the browser. Players type the characters of a level ag
 
 **Live:** https://typerr.io
 
-<!-- TODO: replace with a screenshot or GIF of a running level -->
-![Screenshot](docs/screenshot.png)
+![Gameplay](docs/gameplay-demonstration.png)
 
 ## Features
 
